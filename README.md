@@ -6,7 +6,7 @@
 
 2、 cd react-native-qidian && npm install
 
-3、 react-natvie run-ios
+3、 react-native run-ios
 
 
 ## 第三方库
