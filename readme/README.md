@@ -4,11 +4,16 @@
 
 图片
 
-###使用说明
+### 使用说明
+
 xxxxxxxx
 
-###属性
-####a{number}
+### 属性
+
+#### a{number}
+
 xxxx
-####b{string}
+
+#### b{string}
+
 xxxx

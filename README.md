@@ -202,6 +202,6 @@ storage.save({
 ```
 更多使用可见[react-native-storage](https://github.com/sunnylqm/react-native-storage)
 
-##组件库文档
+## 组件库文档
 
 [文档](https://github.com/yued-fe/react-native-qidian/tree/master/readme/)
