@@ -36,7 +36,7 @@
 ├── common                      //一些通用的组件，和components的区别是，components需要是一个丢在任何项目都能run的组件，common偏业务
 │   ├── bottomBar.js            //底部菜单
 │   └── theme.js                //主题管理
-├── components                  //通用组件
+├── components                  //通用组件，尽量和业务无关
 │   ├── backPageComponent.js    //安卓回退组件（预留）
 │   ├── button.js               //按钮组件
 │   ├── loadFailTemplate.js     //加载失败模板
